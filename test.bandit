@@ -1,0 +1,10 @@
+# This is a demo Bandit script used for dev
+# This is a comment.
+// So is this
+COMM and so is this
+# This is the preferred comment
+
+# Types a string into whatever has focus
+TYPE hello world
+# Sends a specific key
+SEND command
